@@ -6,10 +6,10 @@ A comprehensive collection of biology study notes covering key topics in plant a
 
 | # | Topic | Folder |
 |---|-------|--------|
-| 1 | Excretory System | excretory-system/ |
-| 2 | Plant Anatomy and Physiology | plant-anatomy-physiology/ |
-| 3 | External and Internal Features of Stem, Leaves and Roots | stem-leaves-roots/ |
-| 4 | Rhizopus, Ferns and Moss | rhizopus-ferns-moss/ |
+| 1 | Excretory System | [excretory-system](./excretory-system/) |
+| 2 | Plant Anatomy and Physiology | [plant-anatomy-physiology](./plant-anatomy-physiology/) |
+| 3 | External and Internal Features of Stem, Leaves and Roots | [stem-leaves-roots](./stem-leaves-roots/) |
+| 4 | Rhizopus, Ferns and Moss | [rhizopus-ferns-moss](./rhizopus-ferns-moss/) |
 
 ## Repository Structure
 
