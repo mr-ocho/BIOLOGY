@@ -1,115 +1,68 @@
-Biology Notes 📚
+# Biology Notes
+
 A comprehensive collection of biology study notes covering key topics in plant and human biology, created for academic study and reference.
 
-📖 Topics Covered
-Excretory System
+## Topics Covered
 
-Plant Anatomy and Physiology
+| # | Topic | Folder |
+|---|-------|--------|
+| 1 | Excretory System | excretory-system/ |
+| 2 | Plant Anatomy and Physiology | plant-anatomy-physiology/ |
+| 3 | External and Internal Features of Stem, Leaves and Roots | stem-leaves-roots/ |
+| 4 | Rhizopus, Ferns and Moss | rhizopus-ferns-moss/ |
 
-External and Internal Features of Stem, Leaves and Roots
+## Repository Structure
 
-Rhizopus, Ferns and Moss
+    biology-notes/
+    |
+    |-- README.md
+    |-- excretory-system/
+    |-- plant-anatomy-physiology/
+    |-- stem-leaves-roots/
+    |-- rhizopus-ferns-moss/
 
-🗂️ Repository Structure
-text
-biology-notes/
-│
-├── README.md
-├── excretory-system/
-├── plant-anatomy-physiology/
-├── stem-leaves-roots/
-└── rhizopus-ferns-moss/
-🎯 Purpose
+## Purpose
+
 These notes are compiled to:
 
-Support biology coursework and exam preparation
+| Goal | Description |
+|------|-------------|
+| Coursework Support | Aid biology coursework and exam preparation |
+| Clear Summaries | Provide organized summaries of each topic |
+| Key Concepts | Include diagrams, key terms, and important concepts |
+| Quick Revision | Serve as a fast revision guide |
 
-Provide clear, organized summaries of each topic
+## How to Use
 
-Include diagrams, key terms, and important concepts
+| Step | Action |
+|------|--------|
+| 1 | Clone the repository (see command below) |
+| 2 | Navigate to the topic folder you want to study |
+| 3 | Read the notes.md file for that topic |
 
-Serve as a quick revision guide
+    git clone https://github.com/mr-ocho/BIOLOGY.git
 
-🛠️ How to Use
-Clone the repository:
+## Formatting Notes
 
-bash
-git clone https://github.com/your-username/biology-notes.git
-Navigate to the topic folder you want to study
-
-Read the notes.md file for that topic
-
-✍️ Formatting Notes
 Each topic file will include:
 
-Definitions of key terms
+| Element | Description |
+|---------|-------------|
+| Definitions | Key terms explained clearly |
+| Diagrams | Text descriptions or image references |
+| Comparison Tables | Side-by-side comparisons where relevant |
+| Summary Points | Quick revision notes at the end |
 
-Diagrams (as text descriptions or image references)
+## Contributing
 
-Comparison tables where relevant
-
-Summary points for quick revision
-
-📌 Contributing
 This is a personal study repository, but suggestions and corrections are welcome. Feel free to open an issue or submit a pull request.
 
-📄 License
+## License
+
 This project is for educational purposes. Content is based on standard biology curricula.
 
-Author: Mr. Ocho
-Subject: Biology
-Last Updated: September 14, 2026
-
-Add some tables and make it nicer with 
-Biology Notes 📚
-A comprehensive collection of biology study notes covering key topics in plant and human biology, created for academic study and reference.
-
-📖 Topics Covered
-#	Topic	Folder
-1	Excretory System	excretory-system/
-2	Plant Anatomy and Physiology	plant-anatomy-physiology/
-3	External and Internal Features of Stem, Leaves and Roots	stem-leaves-roots/
-4	Rhizopus, Ferns and Moss	rhizopus-ferns-moss/
-🗂️ Repository Structure
-text
-biology-notes/
-│
-├── README.md
-├── excretory-system/
-├── plant-anatomy-physiology/
-├── stem-leaves-roots/
-└── rhizopus-ferns-moss/
-🎯 Purpose
-These notes are compiled to:
-
-Goal	Description
-📘 Coursework Support	Aid biology coursework and exam preparation
-📝 Clear Summaries	Provide organized summaries of each topic
-🔬 Key Concepts	Include diagrams, key terms, and important concepts
-⚡ Quick Revision	Serve as a fast revision guide
-🛠️ How to Use
-Step	Action
-1	Clone the repository (see command below)
-2	Navigate to the topic folder you want to study
-3	Read the notes.md file for that topic
-bash
-git clone https://github.com/your-username/biology-notes.git
-✍️ Formatting Notes
-Each topic file will include:
-
-Element	Description
-Definitions	Key terms explained clearly
-Diagrams	Text descriptions or image references
-Comparison Tables	Side-by-side comparisons where relevant
-Summary Points	Quick revision notes at the end
-📌 Contributing
-This is a personal study repository, but suggestions and corrections are welcome. Feel free to open an issue or submit a pull request.
-
-📄 License
-This project is for educational purposes. Content is based on standard biology curricula.
-
-Author	Mr. Ocho
-Subject	Biology
-Last Updated	September 14, 2026
-⭐ If you find these notes helpful, consider giving the repo a star!
-
+| | |
+|---|---|
+| Author | Mr. Ocho |
+| Subject | Biology |
+| Last Updated | September 14, 2026 |
